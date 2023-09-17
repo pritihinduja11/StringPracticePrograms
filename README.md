@@ -1,6 +1,7 @@
 # StringPracticePrograms
 
 PGM 1 : ways to check if a string is palindrome or not
+
 PGM 2 : Ways to check whether the string is symmetrical or palindrome
 PGM 3 : ways to reverse words in a string in python
 PGM 4 : ways to remove ith character from string in python
